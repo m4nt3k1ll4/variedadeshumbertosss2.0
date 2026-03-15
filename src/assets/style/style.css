@@ -457,6 +457,8 @@ ul {
   align-items: center;
   justify-content: center;
   min-height: 420px;
+  overflow: hidden;
+  max-width: 100%;
 }
 
 .hero__phone {
@@ -1410,7 +1412,7 @@ ul {
   /* Hero */
   .hero__content {
     grid-template-columns: 1fr;
-    padding: 100px 20px 60px;
+    padding: 100px 16px 60px;
     text-align: center;
   }
 
@@ -1435,6 +1437,9 @@ ul {
 
   .hero__visual {
     min-height: 320px;
+    overflow: hidden;
+    max-width: 100%;
+    width: 100%;
   }
 
   .hero__phone {
@@ -1557,6 +1562,10 @@ ul {
 
   .hero__title {
     font-size: 1.8rem;
+  }
+
+  .hero__visual {
+    display: none;
   }
 
   .btn--lg {
