@@ -1,19 +1,26 @@
 site_name: Variedades Humbertosss
 site_url: https://humbertosss.com
 
-description: Tienda de accesorios para celular ubicada en el CAN en Bogotá. Ofrecemos cargadores, audífonos, parlantes, fundas, protectores de pantalla, power banks y más con precios económicos y asesoría personalizada.
+description: Tienda de accesorios para celular y servicio técnico especializado en Apple, Samsung, Motorola y Xiaomi, ubicada en el CAN en Bogotá. Ofrecemos cargadores, audífonos, parlantes, fundas, protectores de pantalla, power banks y más con precios económicos y asesoría personalizada.
 
 topics:
 - accesorios para celular
 - cargadores
-- audífonos
-- parlantes
-- fundas
+- audífonos bluetooth
+- parlantes bluetooth
+- fundas para celular
 - protectores de pantalla
 - power banks
 - cables de carga
 - memorias USB
-- tecnología
+- servicio técnico celulares
+- reparación iPhone
+- reparación Samsung
+- reparación Motorola
+- reparación Xiaomi
+- cambio de pantalla celular
+- cambio de batería celular
+- accesorios Igoma
 
 location:
   city: Bogotá
@@ -27,6 +34,10 @@ contact:
   whatsapp: +573132632744
   address: Calle 44 #54-94, Teusaquillo, Bogotá, Colombia
 
+social:
+  facebook: https://www.facebook.com/profile.php?id=61581825693770
+  instagram: https://www.instagram.com/variedades_humbertos.s.s.s
+
 hours:
   monday_to_friday: 8:00 AM - 7:30 PM
   saturday: 9:30 AM - 7:00 PM
@@ -38,3 +49,14 @@ payment_methods:
 - Transferencia bancaria
 - Tarjeta
 - Efectivo
+
+services:
+- Venta de accesorios para celular
+- Servicio técnico Apple (iPhone)
+- Servicio técnico Samsung (Galaxy)
+- Servicio técnico Motorola (Moto)
+- Servicio técnico Xiaomi (Redmi)
+- Cambio de pantalla
+- Reemplazo de batería
+- Reparación de cámara
+- Reparación de puerto de carga

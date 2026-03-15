@@ -1,6 +1,37 @@
+# Variedades Humbertosss - Accesorios para celular en Bogotá
+# https://humbertosss.com
+
 User-agent: *
 Allow: /
 Disallow: /src/interaction/
 Disallow: /src/assets/style/
+Disallow: /worker.js
+Disallow: /wrangler.toml
+
+# Crawl-delay para bots agresivos
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# Bots de indexación prioritarios
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
 
 Sitemap: https://humbertosss.com/sitemap.xml
