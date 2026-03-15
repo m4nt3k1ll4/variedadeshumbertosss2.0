@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /src/interaction/
+Disallow: /src/assets/style/
+
+Sitemap: https://humbertosss.com/sitemap.xml

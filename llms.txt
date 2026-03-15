@@ -1,0 +1,40 @@
+site_name: Variedades Humbertosss
+site_url: https://humbertosss.com
+
+description: Tienda de accesorios para celular ubicada en el CAN en Bogotá. Ofrecemos cargadores, audífonos, parlantes, fundas, protectores de pantalla, power banks y más con precios económicos y asesoría personalizada.
+
+topics:
+- accesorios para celular
+- cargadores
+- audífonos
+- parlantes
+- fundas
+- protectores de pantalla
+- power banks
+- cables de carga
+- memorias USB
+- tecnología
+
+location:
+  city: Bogotá
+  neighborhood: Teusaquillo
+  zone: CAN
+  address: Calle 44 #54-94
+  postal_code: 111321
+  country: Colombia
+
+contact:
+  whatsapp: +573132632744
+  address: Calle 44 #54-94, Teusaquillo, Bogotá, Colombia
+
+hours:
+  monday_to_friday: 8:00 AM - 7:30 PM
+  saturday: 9:30 AM - 7:00 PM
+  sunday: 10:00 AM - 6:00 PM
+
+payment_methods:
+- Nequi
+- Daviplata
+- Transferencia bancaria
+- Tarjeta
+- Efectivo
