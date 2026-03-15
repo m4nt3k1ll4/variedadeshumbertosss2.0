@@ -1,0 +1,7 @@
+name = "variedades-humbertosss"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# Sirve todos los archivos de la carpeta raíz como assets estáticos
+[assets]
+directory = "."
