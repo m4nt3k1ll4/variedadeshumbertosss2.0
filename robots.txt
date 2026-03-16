@@ -34,4 +34,5 @@ Allow: /
 User-agent: WhatsApp
 Allow: /
 
+# Sitemap
 Sitemap: https://humbertosss.com/sitemap.xml
